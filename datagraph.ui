@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>DataGraph</class>
+ <widget class="QWidget" name="DataGraph">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>627</width>
+    <height>408</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string> 学生成绩条形图</string>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
