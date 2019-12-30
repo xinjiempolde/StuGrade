@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>StuDB.txt</file>
+        <file>stu.ico</file>
     </qresource>
 </RCC>

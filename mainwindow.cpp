@@ -15,6 +15,7 @@ MainWindow::MainWindow(QWidget *parent)
     ui->setupUi(this);
     isFirstSubmit = true;
     setWindowTitle("学生成绩条形统计");
+    setWindowIcon(QIcon(":/stu.ico"));
     ui->grade_edit->setValidator(new QIntValidator(0, 99, this));
     set_input_enable(false);
 }
