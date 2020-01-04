@@ -1,3 +1,14 @@
+/**************************************************************************
+
+Copyright: Xinji Zhou & Yajiong Liu & Songlin Wang All Rights Reserved
+
+Author: 刘亚炯
+
+Date: 2019-12-20
+
+Description: 输入数据，传回给父窗口
+
+**************************************************************************/
 #ifndef DIALOG_H
 #define DIALOG_H
 

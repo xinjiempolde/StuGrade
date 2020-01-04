@@ -1,3 +1,14 @@
+/**************************************************************************
+
+Copyright: Xinji Zhou & Yajiong Liu & Songlin Wang All Rights Reserved
+
+Author: 王崧霖
+
+Date: 2019-12-20
+
+Description: 主窗口
+
+**************************************************************************/
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 

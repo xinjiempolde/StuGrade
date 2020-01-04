@@ -1,3 +1,14 @@
+/**************************************************************************
+
+Copyright: Xinji Zhou & Yajiong Liu & Songlin Wang All Rights Reserved
+
+Author: 周新纪（插入数据，设置左孩子和右孩子） & 刘亚炯（先序遍历和中序遍历） & 王崧霖（相关结构的定义）
+
+Date: 2019-12-20
+
+Description: 二叉排序树定义及其操作
+
+**************************************************************************/
 #ifndef BST_H
 #define BST_H
 #include <QString>

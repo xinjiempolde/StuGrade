@@ -1,3 +1,14 @@
+/**************************************************************************
+
+Copyright: Xinji Zhou & Yajiong Liu & Songlin Wang All Rights Reserved
+
+Author: 周新纪
+
+Date: 2019-12-20
+
+Description: 绘制条形图
+
+**************************************************************************/
 #ifndef DATAGRAPH_H
 #define DATAGRAPH_H
 
